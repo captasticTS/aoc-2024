@@ -1,0 +1,66 @@
+# Rider-specific files
+.idea/
+.idea_modules/
+
+# User-specific Rider settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+
+# Build directories
+bin/
+obj/
+
+# ASP.NET temporary files
+**/*.vspscc
+.vs/
+wwwroot/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.TMP
+*.TEMP
+
+# Rider cache files
+.idea/.idea_modules/
+.idea/.rider/
+.idea/shelf/
+
+# Debug and Release directories
+Debug/
+Release/
+
+# Resharper files
+_ReSharper.Caches/
+_ReSharper*/SolutionCaches/
+
+# Other IDE files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# DotNet Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Environment specific files
+*.env
+.env.*
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+desktop.ini
